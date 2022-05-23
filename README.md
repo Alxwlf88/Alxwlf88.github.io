@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Evil Wizard Records
 
 You can use the [editor on GitHub](https://github.com/Alxwlf88/Alxwlf88.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
