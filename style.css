@@ -26,7 +26,7 @@ img {
 h1 {
   color: azure;
   position: relative;
-  top: -15vh;
+  top: -7.5vh;
   right: 25vw;
   
 }
@@ -44,10 +44,10 @@ h1 {
 }
 
 .hero {
-  background: linear-gradient(to left, #83a4d4 , #b6fbff);
-  padding: 10vh 0;
+  background: linear-gradient(to left, #FFA07A , #F0E682);
+  padding: 6vh 0;
   
-  height: 15vh;
+  height: 7vh;
 }
 
 .hero-img {
