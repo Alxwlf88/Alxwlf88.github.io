@@ -5,19 +5,8 @@
 .header{
     min-height: 100vh;
     width: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 83fbf417e4afb36b435b37b5bc76ceee9543b34e
-    background-image: linear-gradient(rgba(4,9,30,0.7)),(rgba(4,9,30,0.7)),url("images/space-background.png");
+    background-image: linear-gradient(rgba(4,9,30,0.7)),linear-gradient(rgba(4,9,30,0.7)),url(images/space-background.png);
     background-position: center;
     background-size: cover;
-    position: relative;   
-}
-<<<<<<< HEAD
-=======
-    background-image: linear-gradient(rgba(4,9,30,0.7)),url("images/space-background.png");
-    background-position: center;   
->>>>>>> ae0cb7103757fb9727177352de732efe0477d96f
-=======
->>>>>>> 83fbf417e4afb36b435b37b5bc76ceee9543b34e
+    position: relative;
+    
