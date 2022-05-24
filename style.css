@@ -25,6 +25,8 @@ img {
 
 h1 {
   color: steelblue;
+  position: relative;
+  top: 30px;
 }
 
 .btn {
