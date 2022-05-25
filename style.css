@@ -45,9 +45,9 @@ h1 {
 
 .hero {
   background: linear-gradient(to left, #FFA07A , #F0E682);
-  padding: 0em;
+  padding: 0.5em;
   
-  height: 7vh;
+  height: 8vh;
 }
 
 .hero-img {
