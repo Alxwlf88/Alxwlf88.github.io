@@ -26,7 +26,7 @@ img {
 h1 {
   color: azure;
   position: relative;
-  top: 0vh;
+  top: -1.5vh;
   right: 24vw;
   
 }
@@ -55,10 +55,10 @@ h1 {
 }
 
 .hero-title {
-  font-size: 4vw;
+  font-size: 5vw;
   line-height: 1;
   text-transform: uppercase;
-  margin: 0 .25 .25em;
+  margin: 0 0 .25em;
 }
 
 .hero-text {
