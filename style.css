@@ -62,9 +62,10 @@ h1 {
 }
 
 .hero-text {
-  font-size: 1.2em;
+  font-size: 2em;
   line-height: 1.7;
   margin: 0 0 1.5em;
+  color: #A0522D;
 }
 
 .more-content {
