@@ -3,6 +3,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>EWR| Home</title>
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+
+ 
 
 <head>
 <body>
@@ -23,13 +26,61 @@
 		</nav>
 	  </div>
 	</div>
+
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+	<div class="swiper-slide"> <img src="images/slideshow/slide.jpg"> </div>
+	<div class="swiper-slide"> <img src="images/slideshow/slide1.png"> </div>
+	<div class="swiper-slide"> <img src="images/slideshow/slide2.jpg"> </div>
+
+    
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+ 
+</div>
+
+
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+<script>
+ 
+const swiper = new Swiper('.swiper', {
+
+  loop: true,
+
+  // If we need pagination
+  pagination: {
+	el: '.swiper-pagination',
+	clickable: true,
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+});
+
+ </script>
+
+
 </body>
 </head>
 
 
-    <div class="col">
-      <img src="/images/space-background-day" alt="" class="hero-img"/>
-    </div>
+
+<div class="col">
+      <img src="images/space-background-day.png" alt="space"/>
+    </div>   
 
 <div class="more-content">
 
