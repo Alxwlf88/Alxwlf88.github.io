@@ -54,9 +54,11 @@ img {
 }
 
 .navbar a {
+
 	color: #A0522D;
-	padding: 15px;
-	margin: 0 5px;
+	padding: 5px;
+	margin: 0 15px;
+	
 }
 
 
@@ -86,6 +88,7 @@ img {
 	justify-content: center;
 	align-items: center;
 	height: 100%;
+	
 }
 
 
@@ -93,11 +96,14 @@ img {
 	margin-top: 5vh;
 	width: 60vw;
 	height: fit-content;
-
+	
 }
 
 .swiper-slide img{
+	height: fit-content;
 	width: 100%;
+	
+	
 
 }
 
